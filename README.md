@@ -8,3 +8,4 @@ This repo serves as file storage for certifications I obtained. Links are used t
 
 ### Other vendors
 - [RPA Developer Foundation](./Other-Vendors/uipath-rpa-foundation.pdf)
+- [RPA Testing](./Other-Vendors/uipath-testing.pdf)
